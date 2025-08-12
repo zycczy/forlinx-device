@@ -324,7 +324,6 @@ build_wifibt()
 			echo -e "\e[35m"
 			echo "Missing wireless-bluetooth in $RK_KERNEL_DTS!"
 			echo -e "\e[0m"
-			exit 1
 		fi
 
 		echo "installing BT daemons"
