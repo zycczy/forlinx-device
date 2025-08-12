@@ -1,0 +1,8 @@
+RK_BUILDROOT_BASE_CFG="OK3568-UP4"
+# RK_YOCTO is not set
+# RK_DEBIAN is not set
+RK_UBOOT_CFG="OK3568"
+RK_KERNEL_CFG="OK-x-U40-linux_defconfig"
+RK_KERNEL_DTS_NAME="OK-x-U40-linux"
+RK_PARAMETER="parameter-buildroot-fit.txt"
+RK_USE_FIT_IMG=y
